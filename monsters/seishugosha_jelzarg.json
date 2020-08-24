@@ -1,0 +1,10 @@
+{
+    "id": "seishugosha_jelzarg",
+	"category": "seishugosha",
+    "display": "翠将鬼　　　",
+    "official_name": "翠将鬼ジェルザーグ",
+    "nickname_regex": "(?:翠将鬼|すいしょうき|ジェルザーグ|じぇるざーぐ|ｼﾞｪﾙｻﾞーｸﾞ|はげ|ハゲ|ﾊｹﾞ)",
+    "resistances": [
+	    ["わかりません……だれか教えて……"]
+    ]
+}

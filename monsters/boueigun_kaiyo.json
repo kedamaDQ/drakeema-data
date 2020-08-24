@@ -1,0 +1,10 @@
+{
+	"id": "boueigun_kaiyo",
+	"category": "boueigun",
+	"display": "翠煙の海妖兵団",
+	"official_name": "翠煙の海妖兵団",
+	"nickname_regex": "(?:翠煙|すいえん|スイエン|海妖|かいよう|カイヨウ|波皇将|ネブド|ねぶど)",
+	"resistances": [
+		["呪い", "混乱", "封印"]
+	]
+}

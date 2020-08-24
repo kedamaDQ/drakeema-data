@@ -1,0 +1,33 @@
+{
+    "reference_date": "2018-04-20T06:00:00.000+09:00",
+    "level_names": ["Ⅰ", "Ⅱ", "Ⅲ"],
+    "announcement": {
+        "start": "本日の 聖守護者の闘戦記 は……\n",
+        "parts": "__EMOJI__ __NAME__：__LEVEL__",
+        "end": "\n……です！"
+    },
+    "information": "本日の __NAME__ は __LEVEL__ です！あると良い耐性は __RESISTANCES__ です！",
+    "nickname_regex": "(?:聖?守護者|(?:せい)?しゅごしゃ|(?:セイ)?シュゴシャ|(?:ｾｲ)?ｼｭｺﾞｼｬ|闘戦記|とうせんき|トウセンキ|ﾄｳｾﾝｷ)",
+    "monsters": [
+        {
+            "id": "regrog",
+            "monster_id": "seishugosha_regrog",
+            "offset": 0
+        },
+        {
+            "id": "scorpide",
+            "monster_id": "seishugosha_scorpide",
+            "offset": 2
+        },
+        {
+            "id": "jelzarg",
+            "monster_id": "seishugosha_jelzarg",
+            "offset": 1
+        },
+        {
+            "id": "gardodon",
+            "monster_id": "seishugosha_gardodon",
+            "offset": 1
+        }
+    ]
+}

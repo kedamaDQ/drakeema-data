@@ -1,0 +1,30 @@
+{
+	"announcement_at_day": "__CONTENTS__です！",
+	"announcement_at_day_before": "明日は__CONTENTS__です！",
+	"contents": [
+    	{
+    		"id": "tens_day",
+    		"display": "テンの日",
+    		"months": null,
+    		"days": [10]
+    	},
+    	{
+    		"id": "pukus_day_monthly",
+    		"display": "プクの日",
+    		"months": null,
+    		"days": [29]
+    	},
+    	{
+    		"id": "pukus_day_yearly",
+    		"display": "プクの日",
+    		"months": [2],
+    		"days": [9]
+    	},
+    	{
+    		"id": "foresdon_anniversary",
+    		"display": "フォレスドンの誕生日",
+    		"months": [6],
+    		"days": [27]
+    	}
+	]
+}

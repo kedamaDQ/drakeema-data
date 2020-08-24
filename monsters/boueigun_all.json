@@ -1,0 +1,10 @@
+{
+	"id": "boueigun_all",
+	"category": "boueigun",
+	"display": "全兵団",
+	"official_name": "全兵団",
+	"nickname_regex": "全兵団",
+	"resistances": [
+		["それぞれ……"]
+	]
+}

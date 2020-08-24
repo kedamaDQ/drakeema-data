@@ -1,0 +1,10 @@
+{
+	"id": "jashin_armors",
+	"category": "jashin",
+	"display": "鎧鬼のみなさん",
+	"official_name": "五属性の災禍",
+	"nickname_regex": "(?:鎧鬼のみなさん|五属性の災禍)",
+	"resistances": [
+		["どく", "眠り", "マヒ", "あとはまぁブレスとか呪文とか……"]
+	]
+}

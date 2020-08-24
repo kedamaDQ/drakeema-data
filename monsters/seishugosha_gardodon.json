@@ -1,0 +1,10 @@
+{
+    "id": "seishugosha_gardodon",
+	"category": "seishugosha",
+    "display": "剛獣鬼　　　",
+    "official_name": "剛獣鬼ガルドドン",
+    "nickname_regex": "(?:剛獣鬼|ごうじゅうき|ゴウジュウキ|ｺﾞｳｼﾞｭｳｷ|ガルドドン|がるどどん|ｶﾞﾙﾄﾞﾄﾞﾝ|ごりら|ゴリラ|ｺﾞﾘﾗ)",
+    "resistances": [
+	    ["マヒ"]
+    ]
+}

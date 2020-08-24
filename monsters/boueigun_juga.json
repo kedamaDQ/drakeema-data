@@ -1,0 +1,10 @@
+{
+	"id": "boueigun_juga",
+	"category": "boueigun",
+	"display": "闇朱の獣牙兵団",
+	"official_name": "闇朱の獣牙兵団",
+	"nickname_regex": "(?:闇朱|あんじゅ|アンジュ|獣牙|じゅうが|ジュウガ|破砕将|ボーガ|ぼーが)",
+	"resistances": [
+		["おびえ", "転び", "ブレス"]
+	]
+}

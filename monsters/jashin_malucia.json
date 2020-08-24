@@ -1,0 +1,10 @@
+{
+	"id": "jashin_malucia",
+	"category": "jashin",
+	"display": "魔ちゃん",
+	"official_name": "幻妖の魔勇者",
+	"nickname_regex": "(?:魔勇者|まゆうしゃ|マユウシャ|ﾏﾕｳｼｬ|(?:魔|ま|マ)(?:ア?ン|あ?ん)?ちゃん)",
+	"resistances": [
+		["マヒ", "封印", "呪い"]
+	]
+}

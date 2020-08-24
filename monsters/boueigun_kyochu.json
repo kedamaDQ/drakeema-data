@@ -1,0 +1,10 @@
+{
+	"id": "boueigun_kyochu",
+	"category": "boueigun",
+	"display": "銀甲の凶蟲兵団",
+	"official_name": "銀甲の凶蟲兵団",
+	"nickname_regex": "(?:銀甲|ぎんこう|ギンコウ|凶蟲|きょうちゅう|キョウチュウ|崩撃将|ダバム|だばむ)",
+	"resistances": [
+		["しばり", "転び", "ブレス"]
+	]
+}

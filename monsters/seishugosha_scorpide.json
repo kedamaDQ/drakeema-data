@@ -1,0 +1,10 @@
+{
+    "id": "seishugosha_scorpide",
+	"category": "seishugosha",
+    "display": "紅殻魔　　　",
+    "official_name": "紅殻魔スコルパイド",
+    "nickname_regex": "(?:紅殻魔|こうかくま|コウカクマ|スコルパイド|すこるぱいど|ｽｺﾙﾊﾟｲﾄﾞ|すこぱい|スコパイ|ｽｺﾊﾟｲ|さそり|サソリ|ｻｿﾘ)",
+    "resistances": [
+	    ["即死", "どく"]
+    ]
+}

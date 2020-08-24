@@ -1,0 +1,10 @@
+{
+	"id": "boueigun_tekki",
+	"category": "boueigun",
+	"display": "紫炎の鉄機兵団",
+	"official_name": "紫炎の鉄機兵団",
+	"nickname_regex": "(?:紫炎|しえん|シエン|鉄機|てっき|テッキ|滅機将|シュバ|しゅば)",
+	"resistances": [
+		["転び"]
+	]
+}

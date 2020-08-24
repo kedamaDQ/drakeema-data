@@ -1,0 +1,10 @@
+{
+	"id": "jashin_calamity",
+	"category": "jashin",
+	"display": "魔蝕おじさん",
+	"official_name": "災いの神話",
+	"nickname_regex": "(?:災いの神話|わざわいのしんわ|災厄|さいやく|サイヤク|ｻｲﾔｸ|(?:魔蝕|ましょく|マショク|ﾏｼｮｸ)おじさん)",
+	"resistances": [
+		["呪い", "幻惑", "マヒ", "混乱"]
+	]
+}

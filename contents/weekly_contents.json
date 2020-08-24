@@ -1,0 +1,41 @@
+{
+	"announcement_at_start": "今週の……\n__CONTENTS__\n……は、今日からです！",
+	"announcement_at_end": "今週の……\n__CONTENTS__\n……は、今日までです！",
+    "contents": [
+    	{
+    		"id": "banma",
+    		"display": "万魔の塔",
+    		"reset_days": [0]
+    	},
+    	{
+    		"id": "shutobatsu",
+    		"display": "レンダーシア討伐隊",
+    		"reset_days": [0]
+    	},
+    	{
+    		"id": "pyramid",
+    		"display": "ピラミッドの秘宝",
+    		"reset_days": [0]
+    	},
+    	{
+    		"id": "shiren",
+    		"display": "試練の門",
+    		"reset_days": [0]
+    	},
+    	{
+    		"id": "ohke",
+    		"display": "王家の迷宮",
+    		"reset_days": [0]
+    	},
+    	{
+    		"id": "tatsujin",
+    		"display": "達人クエスト",
+    		"reset_days": [0]
+    	},
+    	{
+    		"id": "tarot",
+    		"display": "モンスタータロット販売",
+    		"reset_days": [0]
+    	}
+    ]
+}

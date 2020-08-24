@@ -1,0 +1,10 @@
+{
+	"id": "boueigun_shigoku",
+	"category": "boueigun",
+	"display": "蒼怨の屍獄兵団",
+	"official_name": "蒼怨の屍獄兵団",
+	"nickname_regex": "(?:蒼怨|そうえん|ソウエン|屍獄|しごく|シゴク|武骸将|邪骨将|デゾス|でぞす|マッゼ|まっぜ)",
+	"resistances": [
+		["呪い"]
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"id": "jashin_pictures",
+	"category": "jashin",
+	"display": "ゆかいな絵画たち",
+	"official_name": "絵画",
+	"nickname_regex": "(?:絵画)",
+	"resistances": [
+		["魅了"],
+		["混乱", "即死"],
+		[],
+		["魅了"]
+	]
+}

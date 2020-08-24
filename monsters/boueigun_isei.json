@@ -1,0 +1,10 @@
+{
+	"id": "boueigun_isei",
+	"category": "boueigun",
+	"display": "異星からの侵略軍",
+	"official_name": "異星からの侵略軍",
+	"nickname_regex": "(?:(?:異星|いせい|イセイ)から|侵略軍|しんりゃくぐん|シンリャクグン|リルグレイド|りるぐれいど)",
+	"resistances": [
+		["マヒ", "魅了", "転び", "炎"]
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"id": "jashin_raz",
+	"category": "jashin",
+	"display": "ラズさん",
+	"official_name": "震撼の冥宰相",
+	"nickname_regex": "(?:冥宰相|めいさいしょう|ラズ|らず|ﾗｽﾞ)",
+	"resistances": [
+		["マヒ", "幻惑"]
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"information": "__NAME__と戦うには __RESISTANCES__ の耐性があると良いみたいです！",
+	"information_without_resistance": "__NAME__と戦うのに耐性は特に必要ないみたいです！",
+	"area_names": {
+		"jashin": ["一獄", "二獄", "三獄", "四獄", "五獄", "はい？獄"]
+	},
+	"ignore_categories": ["seishugosha"]
+}
