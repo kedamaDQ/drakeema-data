@@ -4,5 +4,5 @@
 	"area_names": {
 		"jashin": ["一獄", "二獄", "三獄", "四獄", "五獄", "はい？獄"]
 	},
-	"ignore_categories": ["seishugosha"]
+	"ignore_categories": []
 }
