@@ -1,0 +1,5 @@
+{
+	"follow_regex": "(?:フォロー|ふぉろー|follow)\\s*して",
+	"unfollow_regex": "(?:(?:フォロー|ふぉろー|follow)\\s*(?:やめて|はずして|外して)|(?:リムーブ|りむーぶ|remove)\\s*して)",
+	"rate_limit": 10
+}
