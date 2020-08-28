@@ -1,5 +1,11 @@
 {
 	"keemasan_regex": "キーマさん",
 	"oshiete_regex": "(?:(?:おし|教)えて|(?:てぃーち|ティーチ|ﾃｨーﾁ)\\s*(?:みー|ミー|ﾐー))",
-	"rate_limit": 20
+	"rate_limit": 20,
+	"ignore_acct_regex": [
+		"@unnerv.jp$",
+		"^aquarium@botsin.space$",
+		"^SubwayTooter@mastodon.juggler.jp$",
+		"^Tusky@mastodon.social$"
+	]
 }
