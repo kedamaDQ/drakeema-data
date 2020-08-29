@@ -1,0 +1,10 @@
+{
+    "id": "tokoyami_medb",
+	"category": "tokoyami",
+    "display": "メイヴ",
+    "official_name": "海冥主メイヴ",
+    "nickname_regex": "(?:メイ[ヴブ]|めい[ぶう゛]|ﾒｲ[ｳﾞﾌﾞ])",
+    "resistances": [
+	    ["マヒ", "幻惑"]
+    ]
+}
