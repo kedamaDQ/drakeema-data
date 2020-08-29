@@ -3,7 +3,7 @@
 	"category": "coin",
 	"display": "Ｓキラーマシン",
 	"official_name": "Ｓキラーマシン",
-	"nickname_regex": "(?:[sSＳ]|エス|えす|ｴｽ)(?:キラ|きら|ｷﾗ)",
+	"nickname_regex": "(?:[sSｓＳ]|エス|えす|ｴｽ)(?:キラ|きら|ｷﾗ)",
 	"resistances": [
 		[]
 	]
