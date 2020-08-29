@@ -1,0 +1,10 @@
+{
+	"id": "coin_sanshogun",
+	"category": "coin",
+	"display": "帝国三将軍",
+	"official_name": "帝国三将軍",
+	"nickname_regex": "(?:三将軍|さんしょうぐん|サンショウグン|ｻﾝｼｮｳｸﾞﾝ)",
+	"resistances": [
+		["眠り", "封印", "幻惑", "おびえ"]
+	]
+}

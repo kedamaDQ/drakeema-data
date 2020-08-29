@@ -1,0 +1,10 @@
+{
+	"id": "coin_leopard",
+	"category": "coin",
+	"display": "レオパルド",
+	"official_name": "魔犬レオパルド",
+	"nickname_regex": "(?:魔犬|レオパ(?:ルド|ヨヨ|レス)|れおぱ(?:るど|よよ|れす)|ﾚｵﾊﾟ(?:ﾙﾄﾞ|ﾖﾖ|ﾚｽ))",
+	"resistances": [
+		["混乱", "どく", "呪い"]
+	]
+}
