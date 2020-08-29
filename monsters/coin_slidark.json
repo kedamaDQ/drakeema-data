@@ -1,0 +1,10 @@
+{
+	"id": "coin_slidark",
+	"category": "coin",
+	"display": "死神スライダーク",
+	"official_name": "死神スライダーク",
+	"nickname_regex": "(?:スライダーク|すらいだーく|ｽﾗｲﾀﾞ[-ｰ]ｸ)",
+	"resistances": [
+		["呪文", "即死", "呪い", "闇"]
+	]
+}
