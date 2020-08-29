@@ -1,0 +1,10 @@
+{
+	"id": "coin_gyumei",
+	"category": "coin",
+	"display": "ギュメイ将軍",
+	"official_name": "ギュメイ将軍",
+	"nickname_regex": "(?:ギュメイ|ぎゅめい|ｷﾞｭﾒｲ|ニャンコ|にゃんこ|ﾆｬﾝｺ)",
+	"resistances": [
+		["おびえ", "光"]
+	]
+}

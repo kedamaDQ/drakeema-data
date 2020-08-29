@@ -1,0 +1,10 @@
+{
+	"id": "coin_ankokunomajin",
+	"category": "coin",
+	"display": "暗黒の魔人",
+	"official_name": "暗黒の魔人",
+	"nickname_regex": "(?:暗黒|あんこく|アンコク|ｱﾝｺｸ)[のノﾉ](?:魔人|まじん|マジン|ﾏｼﾞﾝ)",
+	"resistances": [
+		["マヒ", "転び"]
+	]
+}

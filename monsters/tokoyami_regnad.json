@@ -1,0 +1,10 @@
+{
+    "id": "tokoyami_regnad",
+	"category": "tokoyami",
+    "display": "レグナード",
+    "official_name": "常闇の竜レグナード",
+    "nickname_regex": "(?:レグ|れぐ|ﾚｸﾞ)",
+    "resistances": [
+	    ["ブレス", "マヒ"]
+    ]
+}

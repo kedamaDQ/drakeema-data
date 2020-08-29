@@ -1,0 +1,10 @@
+{
+    "id": "tokoyami_darkking",
+	"category": "tokoyami",
+    "display": "ダークキング",
+    "official_name": "ダークキング",
+    "nickname_regex": "(?:ダークキング|だーくきんぐ|ﾀﾞ[-ｰ]ｸｷﾝｸﾞ|ダクキン|だくきん|ﾀﾞｸｷﾝ|[dDＤ][kKＫ])",
+    "resistances": [
+	    ["どく"]
+    ]
+}

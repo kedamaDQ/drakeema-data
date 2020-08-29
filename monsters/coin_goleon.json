@@ -1,0 +1,10 @@
+{
+	"id": "coin_goleon",
+	"category": "coin",
+	"display": "ゴレオン将軍",
+	"official_name": "ゴレオン将軍",
+	"nickname_regex": "(?:ゴレ[オポ]ン|ごれ[おぽ]ん|ｺﾞﾚ(?:ｵ|ﾎﾟ)ﾝ)",
+	"resistances": [
+		["幻惑", "呪い", "おびえ"]
+	]
+}

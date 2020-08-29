@@ -1,0 +1,10 @@
+{
+	"id": "coin_mogura",
+	"category": "coin",
+	"display": "ドン・モグーラ",
+	"official_name": "ドン・モグーラ",
+	"nickname_regex": "(?:モグー?ラ|もぐー?ら|ﾓｸﾞ[-ｰ]?ﾗ)",
+	"resistances": [
+		[ "混乱", "幻惑", "転び", "おびえ" ]
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"id": "coin_slimegeneral",
+	"category": "coin",
+	"display": "スライムジェネラル",
+	"official_name": "スライムジェネラル",
+	"nickname_regex": "(?:スライムジェネラル|すらいむじぇねらる|ｽﾗｲﾑｼﾞｪﾈﾗﾙ|[sSｓＳ](?:じぇね|ジェネ|ｼﾞｪﾈ))",
+	"resistances": [
+		["呪文"]
+	]
+}
