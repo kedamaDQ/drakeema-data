@@ -3,7 +3,7 @@
 	"category": "tokoyami",
     "display": "メイヴ",
     "official_name": "海冥主メイヴ",
-    "nickname_regex": "(?:メイ[ヴブ]|めい[ぶう゛]|ﾒｲ[ｳﾞﾌﾞ])",
+    "nickname_regex": "(?:メイ[ヴブ]|めい[ぶう゛]|ﾒｲ[ｳﾞﾌﾞ]|イカ|いか|ｲｶ)",
     "resistances": [
 	    ["マヒ", "幻惑"]
     ]

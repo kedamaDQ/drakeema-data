@@ -3,7 +3,7 @@
 	"category": "tokoyami",
     "display": "レグナード",
     "official_name": "常闇の竜レグナード",
-    "nickname_regex": "(?:レグ(ナード)?|れぐ(なーど)?|ﾚｸﾞ(ﾅ-ｰﾄﾞ)?)",
+    "nickname_regex": "(?:レグ|れぐ|ﾚｸﾞ)",
     "resistances": [
 	    ["ブレス", "マヒ"]
     ]
