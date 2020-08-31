@@ -6,5 +6,7 @@
 	"title_regex": [
 		"(?:ドラ(?:ゴン)?クエ(?:スト)?|[dDｄＤ][rRｒＲ][aAａＡ][gGｇＧ][oOｏＯ][nNｎＮ]\\s*[qQｑＱ][uUｕＵ][eEｅＥ][sSｓＳ][tTｔＴ])",
 		"(?:[dDｄＤ][qQｑＱ][mMｍＭ][sSｓＳ][lLｌＬ])"
-	]
+	],
+	"announce_interval_secs": 300,
+	"post_interval_secs": 3
 }
