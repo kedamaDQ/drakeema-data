@@ -2,7 +2,6 @@
 	"keemasan_regex": "キーマさん",
 	"oshiete_regex": "(?:(?:おし|教)えて|(?:てぃーち|ティーチ|ﾃｨーﾁ)\\s*(?:みー|ミー|ﾐー))",
 	"healthcheck_regex": "(?:(?:元気|げんき|ゲンキ|ｹﾞﾝｷ)(?:!|！)*(?:？|\\?))",
-	"rate_limit": 20,
 	"healthcheck_responses": [
 		"元気です！",
 		"元気な場合がある。",
