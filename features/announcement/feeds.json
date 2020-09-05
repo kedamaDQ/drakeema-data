@@ -1,0 +1,20 @@
+{
+	"feeds": [
+		{
+			"title": "www.gamer.ne.jp",
+			"url": "https://www.gamer.ne.jp/feed/news.rdf",
+			"tmp": "gamer.tmp"
+		},
+		{
+			"title": "www.onlinegamer.jp",
+			"url": "https://www.onlinegamer.jp/rss/news.rdf",
+			"tmp": "onlinegamer.tmp"
+		}
+	],
+	"title_regexes": [
+		"(?:ドラ(?:ゴン)?クエ(?:スト)?|[dDｄＤ][rRｒＲ][aAａＡ][gGｇＧ][oOｏＯ][nNｎＮ]\\s*[qQｑＱ][uUｕＵ][eEｅＥ][sSｓＳ][tTｔＴ])",
+		"(?:[dDｄＤ][qQｑＱ][mMｍＭ][sSｓＳ][lLｌＬ])"
+	],
+	"announcement_interval_secs": 300,
+	"post_interval_secs": 3
+}
