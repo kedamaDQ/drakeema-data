@@ -18,7 +18,8 @@
 	],
 	"title_regexes": [
 		"(?:ドラ(?:ゴン)?クエ(?:スト)?|[dDｄＤ][rRｒＲ][aAａＡ][gGｇＧ][oOｏＯ][nNｎＮ]\\s*[qQｑＱ][uUｕＵ][eEｅＥ][sSｓＳ][tTｔＴ])",
-		"(?:[dDｄＤ][qQｑＱ][mMｍＭ][sSｓＳ][lLｌＬ])"
+		"(?:[dDｄＤ][qQｑＱ][mMｍＭ][sSｓＳ][lLｌＬ])",
+		"(?:どうぶつの(?:もり|森)|(?:あつ|ぶつ)(?:もり|森))"
 	],
 	"announcement_interval_secs": 300,
 	"post_interval_secs": 3
