@@ -14,12 +14,24 @@
 			"title": "www.itmedia.co.jp",
 			"url": "https://rss.itmedia.co.jp/rss/2.0/itmedia_all.xml",
 			"tmp": "itmedia-all.tmp"
+		},
+		{
+			"title": "www.famitsu.com",
+			"url": "https://www.famitsu.com/rss/fcom_all.rdf",
+			"tmp": "www.famitsu.com.tmp"
+		},
+		{
+			"title": "www.4gamer.net",
+			"url": "https://www.4gamer.net/rss/index.xml",
+			"tmp": "www.4gamer.net.tmp"
 		}
 	],
 	"title_regexes": [
 		"(?:ドラ(?:ゴン)?クエ(?:スト)?|[dDｄＤ][rRｒＲ][aAａＡ][gGｇＧ][oOｏＯ][nNｎＮ]\\s*[qQｑＱ][uUｕＵ][eEｅＥ][sSｓＳ][tTｔＴ])",
-		"(?:[dDｄＤ][qQｑＱ][mMｍＭ][sSｓＳ][lLｌＬ])",
-		"(?:どうぶつの(?:もり|森)|(?:あつ|ぶつ)(?:もり|森))"
+		"(?:[dDｄＤ][qQｑＱ](?:[mMｍＭ][sSｓＳ][lLｌＬ]|(?:[wWｗＷ][aAａＡ][lLｌＬ][kKｋＫ]|ウォーク|ｳｫーｸ)))",
+		"(?:どうぶつの(?:もり|森)|(?:あつ|ぶつ)(?:もり|森))",
+		"(?:ファイナルファンタジー|[fFｆＦ][iIｉＩ][nNｎＮ][aAａＡ][lLｌＬ]\\s*[fFｆＦ][aAａＡ][nNｎＮ][tTｔＴ][aAａＡ][sSｓＳ][yYｙＹ])",
+		"(?:[fFｆＦ]{2}(?:[iIｉＩvVｖＶxXｘＸ]+|[dDｄＤ][cCｃＣ]))"
 	],
 	"announcement_interval_secs": 300,
 	"post_interval_secs": 3
