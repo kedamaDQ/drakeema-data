@@ -14,6 +14,16 @@
 			"title": "www.itmedia.co.jp",
 			"url": "https://rss.itmedia.co.jp/rss/2.0/itmedia_all.xml",
 			"tmp": "itmedia-all.tmp"
+		},
+		{
+			"title": "www.famitsu.com",
+			"url": "https://www.famitsu.com/rss/fcom_all.rdf",
+			"tmp": "www.famitsu.com.tmp"
+		},
+		{
+			"title": "www.4gamer.net",
+			"url": "https://www.4gamer.net/rss/index.xml",
+			"tmp": "www.4gamer.net.tmp"
 		}
 	],
 	"title_regexes": [
