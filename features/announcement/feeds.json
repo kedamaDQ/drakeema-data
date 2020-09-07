@@ -9,11 +9,17 @@
 			"title": "www.onlinegamer.jp",
 			"url": "https://www.onlinegamer.jp/rss/news.rdf",
 			"tmp": "onlinegamer.tmp"
+		},
+		{
+			"title": "www.itmedia.co.jp",
+			"url": "https://rss.itmedia.co.jp/rss/2.0/itmedia_all.xml",
+			"tmp": "itmedia-all.tmp"
 		}
 	],
 	"title_regexes": [
 		"(?:ドラ(?:ゴン)?クエ(?:スト)?|[dDｄＤ][rRｒＲ][aAａＡ][gGｇＧ][oOｏＯ][nNｎＮ]\\s*[qQｑＱ][uUｕＵ][eEｅＥ][sSｓＳ][tTｔＴ])",
-		"(?:[dDｄＤ][qQｑＱ][mMｍＭ][sSｓＳ][lLｌＬ])"
+		"(?:[dDｄＤ][qQｑＱ][mMｍＭ][sSｓＳ][lLｌＬ])",
+		"(?:どうぶつの(?:もり|森)|(?:あつ|ぶつ)(?:もり|森))"
 	],
 	"announcement_interval_secs": 300,
 	"post_interval_secs": 3
