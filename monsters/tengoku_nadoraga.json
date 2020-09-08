@@ -3,7 +3,7 @@
 	"category": "tengoku",
 	"display": "長兄さん",
 	"official_name": "虚空の邪竜神",
-	"nickname_regex": "(?:虚空|こくう)の(?:邪竜神|じゃりゅうじん|じゃりゅうしん)",
+	"nickname_regex": "(?:虚空|こくう)の(?:邪竜神|邪龍神|じゃりゅうじん|じゃりゅうしん)",
 	"resistances": [
 		["呪文", "マヒ"]
 	]
