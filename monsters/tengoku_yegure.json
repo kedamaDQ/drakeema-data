@@ -1,0 +1,10 @@
+{
+	"id": "tengoku_yegure",
+	"category": "tengoku",
+	"display": "いーぎゅあ",
+	"official_name": "絶牙の白獅子たち",
+	"nickname_regex": "(?:絶牙|ぜつが)の(?:白獅子|しろじし|しろしし)たち",
+	"resistances": [
+		["呪文", "おびえ"]
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"id": "tengoku_anteroorstof",
+	"category": "tengoku",
+	"display": "あんてろおるちゃん",
+	"official_name": "邪竜神の使徒たち",
+	"nickname_regex": "(?:邪竜神|じゃりゅうじん|じゃりゅうしん)の(?:使徒|しと)たち",
+	"resistances": [
+		["呪文", "マヒ", "即死", "どく", "呪い", "転び"]
+	]
+}

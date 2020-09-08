@@ -1,0 +1,10 @@
+{
+	"id": "tengoku_nadiayegure",
+	"category": "tengoku",
+	"display": "竜のおにいちゃんといーぎゅあ",
+	"official_name": "黒竜と白獅子",
+	"nickname_regex": "(?:黒竜|こくりゅう)と(?:白獅子|しろじし|しろしし)",
+	"resistances": [
+		["ブレス", "呪い", "おびえ"]
+	]
+}
