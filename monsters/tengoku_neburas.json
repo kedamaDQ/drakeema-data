@@ -1,0 +1,10 @@
+{
+	"id": "tengoku_neburas",
+	"category": "tengoku",
+	"display": "ねびゅらす",
+	"official_name": "暗黒の星竜機",
+	"nickname_regex": "(?:暗黒|あんこく)の(?:星竜機|せいりゅうき)",
+	"resistances": [
+		["ブレス", "マヒ"]
+	]
+}

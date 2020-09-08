@@ -1,0 +1,10 @@
+{
+	"id": "tengoku_neruneru",
+	"category": "tengoku",
+	"display": "ネルネルとお供たち",
+	"official_name": "冥府より来たるもの",
+	"nickname_regex": "(?:冥府|めいふ)より(?:来|き)たるもの",
+	"resistances": [
+		["眠り", "即死", "あとブレスとか呪文とか……"]
+	]
+}

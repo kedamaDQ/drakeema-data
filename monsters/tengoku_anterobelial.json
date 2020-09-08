@@ -1,0 +1,10 @@
+{
+	"id": "tengoku_anterobelial",
+	"category": "tengoku",
+	"display": "あんてろおるちゃん",
+	"official_name": "暴走獄門党",
+	"nickname_regex": "(?:暴走|ぼうそう)(?:獄門党|ごくもんとう)",
+	"resistances": [
+		["ブレス"]
+	]
+}

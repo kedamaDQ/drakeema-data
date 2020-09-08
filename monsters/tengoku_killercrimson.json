@@ -1,0 +1,10 @@
+{
+	"id": "tengoku_killercrimson",
+	"category": "tengoku",
+	"display": "きらくりきらくり",
+	"official_name": "真紅の殺人機械",
+	"nickname_regex": "(?:真紅|しんく)の(?:殺人機械|さつじんきかい)",
+	"resistances": [
+		["呪い", "転び"]
+	]
+}

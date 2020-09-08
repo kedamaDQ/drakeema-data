@@ -1,0 +1,10 @@
+{
+	"id": "tengoku_anteronadaia",
+	"category": "tengoku",
+	"display": "きょうだいりゅう",
+	"official_name": "復讐の兄弟竜",
+	"nickname_regex": "(?:復讐|ふくしゅう)の(?:兄弟竜|兄弟龍|きょうだいりゅう)",
+	"resistances": [
+		["ブレス", "呪い", "おびえ"]
+	]
+}
