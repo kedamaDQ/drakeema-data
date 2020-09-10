@@ -5,7 +5,7 @@
 	"announcement_at_start": "邪神の宮殿は本日から __TITLE__ です！相手は __MONSTERS__、あると良い耐性は __RESISTANCES__ です！",
 	"announcement_at_end": "本日の邪神の宮殿は __TITLE1__ です！明日からは __TITLE2__ が始まります！",
 	"information": "本日の邪神の宮殿は __TITLE__ です！相手は__MONSTERS__、あると良い耐性は __RESISTANCES__ です！",
-	"nickname_regex": "(?:邪神|じゃしん|ジャシン|ｼﾞｬｼﾝ)",
+	"nickname_regex": "(?:邪神|じゃしん|ジャシン|ｼﾞｬｼﾝ|(?:戦禍|せんか)の(?:眷属|けんぞく))",
 	"tables": [
 		{
 			"start_day": 10,
