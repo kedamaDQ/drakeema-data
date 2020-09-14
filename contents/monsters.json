@@ -3,7 +3,8 @@
 	"information_without_resistance": "__NAME__と戦うのに耐性は特に必要ないみたいです！",
 	"area_names": {
 		"jashin": ["一獄", "二獄", "三獄", "四獄", "五獄", "はい？獄"],
-		"tokoyami": ["Ⅰ〜Ⅳ", "Ⅴ"]
+		"tokoyami": ["Ⅰ〜Ⅳ", "Ⅴ"],
+		"bamma": ["一の災壇", "二の災壇", "三の災壇"]
 	},
 	"ignore_categories": []
 }
