@@ -1,17 +1,17 @@
 {
 	"reference_date": "2020-06-05T15:00:00.000+09:00",
-	"information": "現在アストルティア防衛軍は __CURRENT_MONSTER__ に攻められています！\n__RESISTANCES__ の耐性があると良いようです！\nあと __REMAIN__ 分で __NEXT_MONSTER__ が攻めてきます！",
+	"information": "現在アストルティア防衛軍は__LOCATION__で __CURRENT_MONSTER__ と交戦中です！\n__RESISTANCES__ の耐性があると良いようです！\nあと __REMAIN__ 分で __NEXT_MONSTER__ が攻めてきます！",
 	"nickname_regex": "(?:防衛軍|ぼうえいぐん|防衛)",
 	"monsters": [
-		{ "id": "juga1", "monster_id": "boueigun_juga", "duration": 60 },
-		{ "id": "tekki1", "monster_id": "boueigun_tekki", "duration": 60 },
-		{ "id": "zoma1", "monster_id": "boueigun_zoma", "duration": 60 },
-		{ "id": "ryurin1", "monster_id": "boueigun_ryurin", "duration": 60 },
-		{ "id": "all1", "monster_id": "boueigun_all", "duration": 60 },
-		{ "id": "shigoku1", "monster_id": "boueigun_shigoku", "duration": 60 },
-		{ "id": "kyochu1", "monster_id": "boueigun_kyochu", "duration": 60 },
-		{ "id": "kaiyo1", "monster_id": "boueigun_kaiyo", "duration": 60 },
-		{ "id": "ryurin2", "monster_id": "boueigun_ryurin", "duration": 60 },
-		{ "id": "all2", "monster_id": "boueigun_all", "duration": 60 }
+		{ "id": "juga1", "monster_id": "boueigun_juga", "location": "獅子門", "duration": 60 },
+		{ "id": "tekki1", "monster_id": "boueigun_tekki", "location": "獅子門", "duration": 60 },
+		{ "id": "zoma1", "monster_id": "boueigun_zoma", "location": "獅子門", "duration": 60 },
+		{ "id": "ryurin1", "monster_id": "boueigun_ryurin", "location": "岳都ガタラ", "duration": 60 },
+		{ "id": "all1", "monster_id": "boueigun_all", "location": "各地", "duration": 60 },
+		{ "id": "shigoku1", "monster_id": "boueigun_shigoku", "location": "ツスクルの村", "duration": 60 },
+		{ "id": "kyochu1", "monster_id": "boueigun_kyochu", "location": "チョッピ荒野", "duration": 60 },
+		{ "id": "kaiyo1", "monster_id": "boueigun_kaiyo", "location": "ジュレットの町", "duration": 60 },
+		{ "id": "ryurin2", "monster_id": "boueigun_ryurin", "location": "岳都ガタラ", "duration": 60 },
+		{ "id": "all2", "monster_id": "boueigun_all", "location": "各地", "duration": 60 }
 	]
 }
