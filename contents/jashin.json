@@ -11,6 +11,16 @@
 			"start_day": 10,
 			"titles": [
         		{
+        			"id": "malucia_thoma",
+        			"display": "闇に堕ちた英雄の幻影",
+        			"monster_ids": ["jashin_malucia", "jashin_thoma"]
+        		},
+        		{
+        			"id": "calamity_dream",
+        			"display": "災いの神話と暴虐の悪夢",
+        			"monster_ids": ["jashin_calamity", "jashin_dream"]
+        		},
+        		{
         			"id": "masako_pictures",
         			"display": "魔幻の覇王軍",
         			"monster_ids": ["jashin_masako", "jashin_pictures"]
@@ -24,16 +34,6 @@
         			"id": "five_elemental_armors",
         			"display": "五属性の災禍",
         			"monster_ids": ["jashin_armors"]
-        		},
-        		{
-        			"id": "malucia_thoma",
-        			"display": "闇に堕ちた英雄の幻影",
-        			"monster_ids": ["jashin_malucia", "jashin_thoma"]
-        		},
-        		{
-        			"id": "calamity_dream",
-        			"display": "災いの神話と暴虐の悪夢",
-        			"monster_ids": ["jashin_calamity", "jashin_dream"]
         		}
 			]
 		},
