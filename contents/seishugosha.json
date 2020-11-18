@@ -1,5 +1,5 @@
 {
-    "reference_date": "2018-04-20T06:00:00.000+09:00",
+    "reference_date": "2020-11-18T06:00:00.000+09:00",
     "level_names": ["Ⅰ", "Ⅱ", "Ⅲ"],
     "announcement": {
         "start": "本日の 聖守護者の闘戦記 は……\n",
@@ -12,22 +12,27 @@
         {
             "id": "regrog",
             "monster_id": "seishugosha_regrog",
-            "offset": 0
+            "offset": 1
         },
         {
             "id": "scorpide",
             "monster_id": "seishugosha_scorpide",
-            "offset": 2
+            "offset": 0
         },
         {
             "id": "jelzarg",
             "monster_id": "seishugosha_jelzarg",
-            "offset": 1
+            "offset": 2
         },
         {
             "id": "gardodon",
             "monster_id": "seishugosha_gardodon",
-            "offset": 1
+            "offset": 2
+        },
+        {
+            "id": "delmeze",
+            "monster_id": "seishugosha_delmeze",
+            "offset": 0
         }
     ]
 }

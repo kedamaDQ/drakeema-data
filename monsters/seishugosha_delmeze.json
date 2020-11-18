@@ -1,0 +1,10 @@
+{
+    "id": "seishugosha_delmeze",
+	"category": "seishugosha",
+    "display": "邪蒼鎧　　　",
+    "official_name": "邪蒼鎧デルメゼ",
+    "nickname_regex": "(?:邪蒼鎧|じゃそうがい|ジャソウガイ|デルメゼ|でるめぜ|ﾃﾞﾙﾒｾﾞ)",
+    "resistances": [
+	    ["とりあえずメゲない心は必要っぽい"]
+    ]
+}
