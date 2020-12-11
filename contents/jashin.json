@@ -11,6 +11,11 @@
 			"start_day": 10,
 			"titles": [
         		{
+        			"id": "masako_pictures",
+        			"display": "魔幻の覇王軍",
+        			"monster_ids": ["jashin_masako", "jashin_pictures"]
+        		},
+        		{
         			"id": "malucia_thoma",
         			"display": "闇に堕ちた英雄の幻影",
         			"monster_ids": ["jashin_malucia", "jashin_thoma"]
@@ -19,11 +24,6 @@
         			"id": "calamity_dream",
         			"display": "災いの神話と暴虐の悪夢",
         			"monster_ids": ["jashin_calamity", "jashin_dream"]
-        		},
-        		{
-        			"id": "masako_pictures",
-        			"display": "魔幻の覇王軍",
-        			"monster_ids": ["jashin_masako", "jashin_pictures"]
         		},
         		{
         			"id": "raz_zel",
