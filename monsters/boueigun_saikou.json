@@ -1,0 +1,10 @@
+{
+	"id": "boueigun_saikou",
+	"category": "boueigun",
+	"display": "彩虹の粘塊兵団",
+	"official_name": "彩虹の粘塊兵団",
+	"nickname_regex": "(?:彩虹|さいこう|サイコウ|粘塊|ねんかい|ネンカイ|ジェリゴ|じぇりご|グロズ|ぐろず)",
+	"resistances": [
+		["呪文", "呪い"]
+	]
+}
