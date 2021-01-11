@@ -11,9 +11,10 @@
 			"start_day": 10,
 			"titles": [
         		{
-        			"id": "masako_pictures",
-        			"display": "魔幻の覇王軍",
-        			"monster_ids": ["jashin_masako", "jashin_pictures"]
+        			"id": "five_elemental_armors1",
+        			"display": "五属性の災禍",
+					"monster_ids": ["jashin_armors"],
+					"comment": "2021/01/10"
         		},
         		{
         			"id": "malucia_thoma",
@@ -31,10 +32,17 @@
         			"monster_ids": ["jashin_raz", "jashin_zel"]
         		},
         		{
-        			"id": "five_elemental_armors",
+        			"id": "five_elemental_armors2",
         			"display": "五属性の災禍",
-        			"monster_ids": ["jashin_armors"]
-        		}
+					"monster_ids": ["jashin_armors"],
+					"comment": "2020/11/10"
+				},
+        		{
+        			"id": "masako_pictures",
+        			"display": "魔幻の覇王軍",
+        			"monster_ids": ["jashin_masako", "jashin_pictures"],
+					"comment": "2020/12/10"
+				}
 			]
 		},
 		{
