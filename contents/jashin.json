@@ -1,5 +1,5 @@
 {
-	"reference_date": "2020-07-10T06:00:00.000+09:00",
+	"reference_date": "2020-05-10T06:00:00.000+09:00",
 	"area_names": ["一獄", "二獄", "三獄", "四獄", "五獄", "はい？獄"],
 	"announcement": "本日の邪神の宮殿は __TITLE__ です！",
 	"announcement_at_start": "邪神の宮殿は本日から __TITLE__ です！相手は __MONSTERS__、あると良い耐性は __RESISTANCES__ です！",
@@ -14,34 +14,49 @@
         			"id": "five_elemental_armors1",
         			"display": "五属性の災禍",
 					"monster_ids": ["jashin_armors"],
-					"comment": "2021/01/10"
-        		},
-        		{
-        			"id": "malucia_thoma",
-        			"display": "闇に堕ちた英雄の幻影",
-        			"monster_ids": ["jashin_malucia", "jashin_thoma"]
-        		},
-        		{
-        			"id": "calamity_dream",
-        			"display": "災いの神話と暴虐の悪夢",
-        			"monster_ids": ["jashin_calamity", "jashin_dream"]
-        		},
+					"history": ["2020/05/10", "2021/01/10"]
+				},
         		{
         			"id": "raz_zel",
         			"display": "覇道の双璧",
-        			"monster_ids": ["jashin_raz", "jashin_zel"]
-        		},
+        			"monster_ids": ["jashin_raz", "jashin_zel"],
+					"history": ["2021/06/10"]
+				},
         		{
         			"id": "five_elemental_armors2",
         			"display": "五属性の災禍",
 					"monster_ids": ["jashin_armors"],
-					"comment": "2020/11/10"
+					"history": ["2021/07/10"]
+				},
+        		{
+        			"id": "malucia_thoma",
+        			"display": "闇に堕ちた英雄の幻影",
+        			"monster_ids": ["jashin_malucia", "jashin_thoma"],
+					"history": ["2021/08/10"]
+        		},
+        		{
+        			"id": "five_elemental_armors3",
+        			"display": "五属性の災禍",
+					"monster_ids": ["jashin_armors"],
+					"history": ["2021/09/10"]
+        		},
+        		{
+        			"id": "calamity_dream",
+        			"display": "災いの神話と暴虐の悪夢",
+					"monster_ids": ["jashin_calamity", "jashin_dream"],
+					"history": ["2020/10/10"]
+        		},
+        		{
+        			"id": "five_elemental_armors4",
+        			"display": "五属性の災禍",
+					"monster_ids": ["jashin_armors"],
+					"history": ["2020/11/10"]
 				},
         		{
         			"id": "masako_pictures",
         			"display": "魔幻の覇王軍",
         			"monster_ids": ["jashin_masako", "jashin_pictures"],
-					"comment": "2020/12/10"
+					"history": ["2020/04/10", "2020/12/10"]
 				}
 			]
 		},
