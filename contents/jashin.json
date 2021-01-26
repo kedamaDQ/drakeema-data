@@ -64,6 +64,16 @@
 			"start_day": 25,
 			"titles": [
         		{
+        			"id": "thoma_zel",
+        			"display": "魔幻の最高幹部",
+        			"monster_ids": ["jashin_thoma", "jashin_zel"]
+        		},
+        		{
+        			"id": "calamity_malucia",
+        			"display": "妖女と災獣",
+        			"monster_ids": ["jashin_calamity", "jashin_malucia"]
+        		},
+        		{
         			"id": "dream_masako",
         			"display": "破壊と創造の神々",
         			"monster_ids": ["jashin_dream", "jashin_masako"]
@@ -101,16 +111,6 @@
         			"id": "dream_malucia",
         			"display": "見果てぬ夢の蛮勇",
         			"monster_ids": ["jashin_dream", "jashin_malucia"]
-        		},
-        		{
-        			"id": "thoma_zel",
-        			"display": "魔幻の最高幹部",
-        			"monster_ids": ["jashin_thoma", "jashin_zel"]
-        		},
-        		{
-        			"id": "calamity_malucia",
-        			"display": "妖女と災獣",
-        			"monster_ids": ["jashin_calamity", "jashin_malucia"]
         		}
 			]
 		}
