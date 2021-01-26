@@ -1,16 +1,6 @@
 {
 	"feeds": [
 		{
-			"title": "www.gamer.ne.jp",
-			"url": "https://www.gamer.ne.jp/feed/news.rdf",
-			"tmp": "gamer.tmp"
-		},
-		{
-			"title": "www.onlinegamer.jp",
-			"url": "https://www.onlinegamer.jp/rss/news.rdf",
-			"tmp": "onlinegamer.tmp"
-		},
-		{
 			"title": "www.itmedia.co.jp",
 			"url": "https://rss.itmedia.co.jp/rss/2.0/itmedia_all.xml",
 			"tmp": "itmedia-all.tmp"
