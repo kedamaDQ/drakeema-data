@@ -1,0 +1,10 @@
+{
+	"id": "coin_mudo",
+	"category": "coin",
+	"display": "ムドー",
+	"official_name": "ムドー",
+	"nickname_regex": "(?:ムド|むど|ﾑﾄﾞ)",
+	"resistances": [
+		["呪文", "眠り", "おびえ"]
+	]
+}
