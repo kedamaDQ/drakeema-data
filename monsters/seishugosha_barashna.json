@@ -1,0 +1,10 @@
+{
+    "id": "seishugosha_barashna",
+	"category": "seishugosha",
+    "display": "羅刹王　　　",
+    "official_name": "羅刹王バラシュナ",
+    "nickname_regex": "(?:羅刹王|らせつおう|ラセツオウ|バラシュナ|ばらしゅな|ﾊﾞﾗｼｭﾅ)",
+    "resistances": [
+	    ["なんでしょう？"]
+    ]
+}

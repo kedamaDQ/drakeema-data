@@ -1,5 +1,5 @@
 {
-    "reference_date": "2020-11-18T06:00:00.000+09:00",
+    "reference_date": "2021-06-01T06:00:00.000+09:00",
     "level_names": ["Ⅰ", "Ⅱ", "Ⅲ"],
     "announcement": {
         "start": "本日の 聖守護者の闘戦記 は……\n",
@@ -33,6 +33,11 @@
             "id": "delmeze",
             "monster_id": "seishugosha_delmeze",
             "offset": 0
+        },
+        {
+            "id": "barashna",
+            "monster_id": "seishugosha_barashna",
+            "offset": 1
         }
     ]
 }
