@@ -2,8 +2,8 @@
     "id": "seishugosha_jelzarg",
 	"category": "seishugosha",
     "display": "翠将鬼　　　",
-    "official_name": "翠将鬼ジェルザーグ",
-    "nickname_regex": "(?:翠将鬼|すいしょうき|ジェルザーグ|じぇるざーぐ|ｼﾞｪﾙｻﾞ[-ｰ]ｸﾞ|はげ|ハゲ|ﾊｹﾞ)",
+    "official_name": "翠将鬼ジェルザーク",
+    "nickname_regex": "(?:翠将鬼|すいしょうき|ジェルザーク|じぇるざーく|ｼﾞｪﾙｻﾞ[-ｰ]ｸ|はげ|ハゲ|ﾊｹﾞ)",
     "resistances": [
 	    [ "ブレス", "眠り", "混乱", "幻惑", "踊り", "転び", "立ち位置により……" ]
     ]
