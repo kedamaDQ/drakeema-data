@@ -1,0 +1,10 @@
+{
+	"id": "boueigun_karetsu",
+	"category": "boueigun",
+	"display": "芳墨の華烈兵団",
+	"official_name": "芳墨の華烈兵団",
+	"nickname_regex": "(?:芳墨|ほうぼく|ホウボク|華烈|かれつ|カレツ|リランザ|りらんざ|フィア|ふぃあ)",
+	"resistances": [
+		["呪文", "混乱", "幻惑", "魅了", "呪い"]
+	]
+}
