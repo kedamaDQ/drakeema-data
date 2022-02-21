@@ -1,0 +1,10 @@
+{
+	"id": "panigulm_jigenryu",
+	"category": "panigulm",
+	"display": "じげんりゅう",
+	"official_name": "じげんりゅう",
+	"nickname_regex": "(?:じげんりゅう|次元竜)",
+	"resistances": [
+		["呪文", "マヒ", "封印", "闇"]
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"id": "panigulm_elgios",
+	"category": "panigulm",
+	"display": "堕天使エルギオス",
+	"official_name": "堕天使エルギオス",
+	"nickname_regex": "(?:堕天使|だてんし|ダテンシ|ﾀﾞﾃﾝｼ)?(?:エルギオス|えるぎおす|ｴﾙｷﾞｵｽ)",
+	"resistances": [
+		["ブレス", "マヒ", "封印", "雷"]
+	]
+}
