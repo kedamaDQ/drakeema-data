@@ -6,11 +6,6 @@
     		"id": "theatrical_chronicle",
     		"display": " :m_nasubimera: シアトリカルクロニクル",
     		"days": [1, 15]
-    	},
-    	{
-    		"id": "mato",
-    		"display": "不思議の魔塔",
-    		"days": [1]
     	}
 	]
 }
