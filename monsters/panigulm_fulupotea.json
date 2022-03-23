@@ -1,0 +1,10 @@
+{
+	"id": "panigulm_fulupotea",
+	"category": "panigulm",
+	"display": "フルポティ",
+	"official_name": "源世果フルポティ",
+	"nickname_regex": "(?:フルポティ|ふるぽてぃ|ﾌﾙﾎﾟﾃｨ|源世果)",
+	"resistances": [
+		["呪い", "おびえ", "光"]
+	]
+}
