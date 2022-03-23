@@ -7,6 +7,7 @@
 	"nickname_regex": "(?:(?:源世庫|げんせいこ|ゲンセイコ|ｹﾞﾝｾｲｺ)|(?:パニガルム|ぱにがるむ|ﾊﾟﾆｶﾞﾙﾑ|パニパニ|ぱにぱに|ﾊﾟﾆﾊﾟﾆ))",
 	"monster_ids": [
 		"panigulm_jigenryu",
+		"panigulm_fulupotea",
 		"panigulm_elgios",
 		"panigulm_almana"
 	]
