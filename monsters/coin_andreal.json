@@ -1,0 +1,10 @@
+{
+	"id": "coin_andreal",
+	"category": "coin",
+	"display": "アンドレアル",
+	"official_name": "アンドレアル",
+	"nickname_regex": "(?:アンドレアル|あんどれある|ｱﾝﾄﾞﾚｱﾙ)",
+	"resistances": [
+		["ブレス", "どく", "呪い"]
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"id": "coin_genkaishoko",
+	"category": "coin",
+	"display": "真・幻界諸侯",
+	"official_name": "真・幻界諸侯",
+	"nickname_regex": "(?:真諸侯|幻界諸侯|しんしょこ|げんかいしょこ)",
+	"resistances": [
+		["呪文", "眠り", "転び", "おびえ"]
+	]
+}
