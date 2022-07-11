@@ -1,0 +1,10 @@
+{
+	"id": "boueigun_meiyoku",
+	"category": "boueigun",
+	"display": "白雲の冥翼兵団",
+	"official_name": "白雲の冥翼兵団",
+	"nickname_regex": "(?:白雲|はくうん|ハクウン|冥翼|めいよく|メイヨク)",
+	"resistances": [
+		["呪文"]
+	]
+}
