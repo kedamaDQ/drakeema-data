@@ -1,43 +1,18 @@
 {
-    "reference_date": "2021-06-01T06:00:00.000+09:00",
+    "reference_date": "2022-07-10T06:00:00.000+09:00",
     "level_names": ["Ⅰ", "Ⅱ", "Ⅲ"],
     "announcement": {
-        "start": "本日の 聖守護者の闘戦記 は……\n",
+        "start": "本日の 深淵の咎人たち は……\n",
         "parts": "__EMOJI__ __NAME__：__LEVEL__",
         "end": "\n……です！"
     },
     "information": "本日の __NAME__ は __LEVEL__ です！あると良い耐性は __RESISTANCES__ です！",
-    "nickname_regex": "(?:聖?守護者|(?:せい)?しゅごしゃ|(?:セイ)?シュゴシャ|(?:ｾｲ)?ｼｭｺﾞｼｬ|闘戦記|とうせんき|トウセンキ|ﾄｳｾﾝｷ)",
+    "nickname_regex": "(?:咎人|とがびと|トガビト|ﾄｶﾞﾋﾞﾄ)",
     "monsters": [
         {
-            "id": "regrog",
-            "monster_id": "seishugosha_regrog",
-            "offset": 1
-        },
-        {
-            "id": "scorpide",
-            "monster_id": "seishugosha_scorpide",
+            "id": "ruberangis",
+            "monster_id": "togabito_ruberangis",
             "offset": 0
-        },
-        {
-            "id": "jelzarg",
-            "monster_id": "seishugosha_jelzarg",
-            "offset": 2
-        },
-        {
-            "id": "gardodon",
-            "monster_id": "seishugosha_gardodon",
-            "offset": 2
-        },
-        {
-            "id": "delmeze",
-            "monster_id": "seishugosha_delmeze",
-            "offset": 0
-        },
-        {
-            "id": "barashna",
-            "monster_id": "seishugosha_barashna",
-            "offset": 1
         }
     ]
 }
