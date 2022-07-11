@@ -1,20 +1,22 @@
 {
-	"reference_date": "2021-11-15T06:00:00.000+09:00",
+	"reference_date": "2022-07-11T06:00:00.000+09:00",
 	"information": "現在アストルティア防衛軍は__LOCATION__で __CURRENT_MONSTER__ と交戦中です！\n__RESISTANCES__ の耐性があると良いようです！\nあと __REMAIN__ 分で __NEXT_MONSTER__ が攻めてきます！",
 	"nickname_regex": "(?:防衛軍|ぼうえいぐん|防衛)",
 	"monsters": [
-		{ "id": "ryurin", "monster_id": "boueigun_ryurin", "location": "岳都ガタラ", "duration": 60 },
-		{ "id": "nenkai", "monster_id": "boueigun_nenkai", "location": "ツスクルの村", "duration": 60 },
-		{ "id": "karetsu1", "monster_id": "boueigun_karetsu", "location": "ジュレットの町", "duration": 60 },
-		{ "id": "all1", "monster_id": "boueigun_all", "location": "各地", "duration": 60 },
 		{ "id": "juga", "monster_id": "boueigun_juga", "location": "獅子門", "duration": 60 },
 		{ "id": "tekki", "monster_id": "boueigun_tekki", "location": "獅子門", "duration": 60 },
-		{ "id": "karetsu2", "monster_id": "boueigun_karetsu", "location": "ジュレットの町", "duration": 60 },
-		{ "id": "all2", "monster_id": "boueigun_all", "location": "各地", "duration": 60 },
 		{ "id": "zoma", "monster_id": "boueigun_zoma", "location": "獅子門", "duration": 60 },
+		{ "id": "meiyoku1", "monster_id": "boueigun_meiyoku", "location": "チョッピ荒野", "duration": 60 },
+		{ "id": "all1", "monster_id": "boueigun_all", "location": "各地", "duration": 60 },
 		{ "id": "shigoku", "monster_id": "boueigun_shigoku", "location": "ツスクルの村", "duration": 60 },
 		{ "id": "kyochu", "monster_id": "boueigun_kyochu", "location": "チョッピ荒野", "duration": 60 },
-		{ "id": "all3", "monster_id": "boueigun_all", "location": "各地", "duration": 60 },
-		{ "id": "kaiyo", "monster_id": "boueigun_kaiyo", "location": "ジュレットの町", "duration": 60 }
+		{ "id": "kaiyo", "monster_id": "boueigun_kaiyo", "location": "ジュレットの町", "duration": 60 },
+		{ "id": "meiyoku2", "monster_id": "boueigun_meiyoku", "location": "チョッピ荒野", "duration": 60 },
+		{ "id": "all2", "monster_id": "boueigun_all", "location": "各地", "duration": 60 },
+		{ "id": "ryurin", "monster_id": "boueigun_ryurin", "location": "岳都ガタラ", "duration": 60 },
+		{ "id": "nenkai", "monster_id": "boueigun_nenkai", "location": "ツスクルの村", "duration": 60 },
+		{ "id": "karetsu", "monster_id": "boueigun_karetsu", "location": "ジュレットの町", "duration": 60 },
+		{ "id": "meiyoku3", "monster_id": "boueigun_meiyoku", "location": "チョッピ荒野", "duration": 60 },
+		{ "id": "all3", "monster_id": "boueigun_all", "location": "各地", "duration": 60 }
 	]
 }
