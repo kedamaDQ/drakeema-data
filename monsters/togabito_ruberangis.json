@@ -1,0 +1,10 @@
+{
+    "id": "togabito_ruberangis",
+	"category": "tobagito",
+    "display": "ルベランギス",
+    "official_name": "厭悪のルベランギス",
+    "nickname_regex": "(?:ルベランギス|るべらんぎす|ﾙﾍﾞﾗﾝｷﾞｽ)",
+    "resistances": [
+	    ["ブレス", "混乱", "封印", "幻惑", "呪い", "転び"]
+    ]
+}
