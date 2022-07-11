@@ -1,0 +1,10 @@
+{
+	"id": "panigulm_catcher",
+	"category": "panigulm",
+	"display": "パニガキャッチャー",
+	"official_name": "パニガキャッチャー",
+	"nickname_regex": "(?:キャッチャー|きゃっちゃー|ｷｬｯﾁｬ)",
+	"resistances": [
+		["ブレス", "マヒ", "炎"]
+	]
+}
