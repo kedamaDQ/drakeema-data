@@ -1,6 +1,6 @@
 {
     "reference_date": "2022-07-10T06:00:00.000+09:00",
-    "level_names": ["Ⅰ", "Ⅱ", "Ⅲ"],
+    "level_names": ["Ⅰ", "Ⅱ"],
     "announcement": {
         "start": "本日の 深淵の咎人たち は……\n",
         "parts": "__EMOJI__ __NAME__：__LEVEL__",
