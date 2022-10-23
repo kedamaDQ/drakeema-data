@@ -1,0 +1,10 @@
+{
+	"id": "panigulm_fordina",
+	"category": "panigulm",
+	"display": "源世妃フォルダイナ",
+	"official_name": "源世妃フォルダイナ",
+	"nickname_regex": "(?:フォルダイナ|ふぉるだいな|ﾌｫﾙﾀﾞｲﾅ|源世妃)",
+	"resistances": [
+		["ブレス", "踊り", "闇"]
+	]
+}
