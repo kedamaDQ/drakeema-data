@@ -6,6 +6,7 @@
 	"information": "本日の源世庫パニガルムは __MONSTER__ です！あると良い耐性は __RESISTANCES__ です！",
 	"nickname_regex": "(?:(?:源世庫|げんせいこ|ゲンセイコ|ｹﾞﾝｾｲｺ)|(?:パニガルム|ぱにがるむ|ﾊﾟﾆｶﾞﾙﾑ|パニパニ|ぱにぱに|ﾊﾟﾆﾊﾟﾆ))",
 	"monster_ids": [
+		"panigulm_fordina",
 		"panigulm_catcher",
 		"panigulm_fulupotea",
 		"panigulm_elgios",
