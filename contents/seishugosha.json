@@ -13,6 +13,11 @@
             "id": "ruberangis",
             "monster_id": "togabito_ruberangis",
             "offset": 0
+        },
+        {
+            "id": "eulemod",
+            "monster_id": "togabito_eulemod",
+            "offset": 1
         }
     ]
 }
