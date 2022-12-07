@@ -1,0 +1,10 @@
+{
+    "id": "togabito_eulemod",
+	"category": "tobagito",
+    "display": "アウルモッド",
+    "official_name": "絶念のアウルモッド",
+    "nickname_regex": "(?:アウルモッド|あうるもっど|ｱｳﾙﾓｯﾄﾞ)",
+    "resistances": [
+	    ["まだわかりません！"]
+    ]
+}
