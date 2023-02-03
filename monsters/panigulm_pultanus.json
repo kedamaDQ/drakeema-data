@@ -1,0 +1,10 @@
+{
+	"id": "panigulm_pultanus",
+	"category": "panigulm",
+	"display": "魔妖星プルタヌス",
+	"official_name": "魔妖星プルタヌス",
+	"nickname_regex": "(?:プルタヌス|ぷるたぬす|ﾌﾟﾙﾀﾇｽ|魔妖星)",
+	"resistances": [
+		["まだわかりません!"]
+	]
+}
