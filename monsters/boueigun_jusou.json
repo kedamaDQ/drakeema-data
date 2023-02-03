@@ -1,0 +1,10 @@
+{
+	"id": "boueigun_jusou",
+	"category": "boueigun",
+	"display": "腐緑の樹葬兵団",
+	"official_name": "腐緑の樹葬兵団",
+	"nickname_regex": "(?:腐緑|ふりょく|フリョク|樹葬|じゅそう|ジュソウ)",
+	"resistances": [
+		["呪い", "混乱", "幻惑"]
+	]
+}
