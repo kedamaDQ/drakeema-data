@@ -1,17 +1,17 @@
 {
-	"reference_date": "2022-10-23T06:00:00.000+09:00",
+	"reference_date": "2023-02-05T06:00:00.000+09:00",
 	"announcement": "本日の源世庫パニガルムは __MONSTER__ です！",
 	"announcement_at_start": "源世庫パニガルムは本日から __MONSTER__、あると良い耐性は __RESISTANCES__ です！",
 	"announcement_at_end": "本日の源世庫パニガルムは __MONSTER1__ です！明日からは __MONSTER2__ が始まります！",
 	"information": "本日の源世庫パニガルムは __MONSTER__ です！あると良い耐性は __RESISTANCES__ です！",
 	"nickname_regex": "(?:(?:源世庫|げんせいこ|ゲンセイコ|ｹﾞﾝｾｲｺ)|(?:パニガルム|ぱにがるむ|ﾊﾟﾆｶﾞﾙﾑ|パニパニ|ぱにぱに|ﾊﾟﾆﾊﾟﾆ))",
 	"monster_ids": [
-		"panigulm_fordina",
-		"panigulm_catcher",
-		"panigulm_fulupotea",
 		"panigulm_pultanus",
 		"panigulm_elgios",
 		"panigulm_almana",
-		"panigulm_jigenryu"
+		"panigulm_jigenryu",
+		"panigulm_fordina",
+		"panigulm_catcher",
+		"panigulm_fulupotea"
 	]
 }
