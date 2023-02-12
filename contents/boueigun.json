@@ -1,5 +1,5 @@
 {
-	"reference_date": "2023-02-03T06:00:00.000+09:00",
+	"reference_date": "2023-02-12T07:00:00.000+09:00",
 	"information": "現在アストルティア防衛軍は__LOCATION__で __CURRENT_MONSTER__ と交戦中です！\n__RESISTANCES__ の耐性があると良いようです！\nあと __REMAIN__ 分で __NEXT_MONSTER__ が攻めてきます！",
 	"nickname_regex": "(?:防衛軍|ぼうえいぐん|防衛)",
 	"monsters": [
