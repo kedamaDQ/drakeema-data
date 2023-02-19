@@ -1,0 +1,10 @@
+{
+	"id": "coin_evilpriest",
+	"category": "coin",
+	"display": "エビルプリースト",
+	"official_name": "エビルプリースト",
+	"nickname_regex": "(?:エビルプリースト|えびるぷりーすと|ｴﾋﾞﾙﾌﾟﾘｰｽﾄ|エビプリ|えびぷり|ｴﾋﾞﾌﾟﾘ)",
+	"resistances": [
+		["呪文", "呪い", "闇"]
+	]
+}
