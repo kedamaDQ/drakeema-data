@@ -13,6 +13,11 @@
     		"reset_days": [0]
     	},
     	{
+    		"id": "banma",
+    		"display": "万魔の塔",
+    		"reset_days": [0]
+    	},
+    	{
     		"id": "shiren",
     		"display": "試練の門",
     		"reset_days": [0]
