@@ -1,0 +1,10 @@
+{
+	"id": "panigulm_dydalmos",
+	"category": "panigulm",
+	"display": "鉄巨兵ダイダルモス",
+	"official_name": "鉄巨兵ダイダルモス",
+	"nickname_regex": "(?:ダイダルモス|だいだるもす|ﾀﾞｲﾀﾞﾙﾓｽ|鉄巨兵)",
+	"resistances": [
+		["呪い"]
+	]
+}
