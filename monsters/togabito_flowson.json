@@ -1,7 +1,7 @@
 {
     "id": "togabito_flowson",
 	"category": "tobagito",
-    "display": "フラウソン",
+    "display": "フラウソン　",
     "official_name": "凶禍のフラウソン",
     "nickname_regex": "(?:フラウソン|ふらうそん|ﾌﾗｳｿﾝ)",
     "resistances": [
