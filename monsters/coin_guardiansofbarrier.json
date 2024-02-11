@@ -3,7 +3,7 @@
 	"category": "coin",
 	"display": "結界の守護者たち",
 	"official_name": "結界の守護者たち",
-	"nickname_regex": "(?:結界|けっかい)?の?(?:守護者|しゅごしゃ)?",
+	"nickname_regex": "(?:結界|けっかい)の?(?:守護者|しゅごしゃ)",
 	"resistances": [
 		["呪文", "どく", "呪い", "転び", "幻惑", "混乱"]
 	]
