@@ -3,7 +3,7 @@
 	"category": "boueigun",
 	"display": "青鮮の菜果兵団",
 	"official_name": "青鮮の菜果兵団",
-	"nickname_regex": "(?:青鮮|せいせん|セイセン|菜果|さいか|サイカ|)",
+	"nickname_regex": "(?:青鮮|せいせん|セイセン|菜果|さいか|サイカ)",
 	"resistances": [
 		["まだわかりません!"]
 	]
