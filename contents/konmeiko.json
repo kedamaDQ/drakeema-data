@@ -8,8 +8,8 @@
 	"days": [1, 15],
 	"monsters": [
    		{
-   			"id": "konmeiko_jerodra",
-			"monster_ids": ["konmeiko_jerodra"]
+   			"id": "jerodra",
+			"monster_id": "konmeiko_jerodra"
 		}
 	]
 }
