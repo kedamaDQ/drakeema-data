@@ -1,0 +1,15 @@
+{
+	"reference_date": "2024-07-15T06:00:00.000+09:00",
+	"announcement": "本日の昏冥庫パニガルムは __MONSTERS__ です！",
+	"announcement_at_start": "昏冥庫パニガルムが開放されました！ __MONSTERS__と戦うには __RESISTANCES__ の耐性があると良いようです！",
+	"information": "本日の昏冥庫パニガルムは __MONSTERS__ です！ __RESISTANCES__ の耐性があると良いようです！",
+	"out_of_term": "本日の昏冥庫パニガルムは開いてません！",
+	"nickname_regex": "(?:昏冥庫|こんめいこ|こんめーこ|混迷庫)",
+	"days": [1, 15],
+	"monsters": [
+   		{
+   			"id": "konmeiko_jerodra",
+			"monster_ids": ["konmeiko_jerodra"]
+		}
+	]
+}

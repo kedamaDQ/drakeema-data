@@ -1,0 +1,10 @@
+{
+	"id": "konmeiko_jerodra",
+	"category": "konmeiko",
+	"display": "冥氷竜ジェロドーラ",
+	"official_name": "冥氷竜ジェロドーラ",
+	"nickname_regex": "(?:ジェロドーラ|じぇろどーら|ｼﾞｪﾛﾄﾞｰﾗ|冥氷竜)",
+	"resistances": [
+		["呪文", "おびえ", "氷", "闇"]
+	]
+}
