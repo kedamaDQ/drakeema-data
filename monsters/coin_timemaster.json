@@ -1,0 +1,10 @@
+{
+	"id": "coin_timemaster",
+	"category": "coin",
+	"display": "タイムマスター",
+	"official_name": "タイムマスター",
+	"nickname_regex": "(?:タイムマスタ|たいむますた|タイマス|たいます)",
+	"resistances": [
+		["呪文", "炎", "氷", "光"]
+	]
+}
