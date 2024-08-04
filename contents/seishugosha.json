@@ -23,6 +23,11 @@
             "id": "flowson",
             "monster_id": "togabito_flowson",
             "offset": 0
+        },
+        {
+            "id": "willide",
+            "monster_id": "togabito_willide",
+            "offset" : 1
         }
     ]
 }
