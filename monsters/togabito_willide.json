@@ -1,7 +1,7 @@
 {
     "id": "togabito_willide",
 	"category": "tobagito",
-    "display": "ウィリーデ",
+    "display": "ウィリーデ　",
     "official_name": "悲愴のウィリーデ",
     "nickname_regex": "(?:ウィリーデ|うぃりーで|ｳｨﾘｰﾃﾞ)",
     "resistances": [
