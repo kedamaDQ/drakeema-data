@@ -1,0 +1,10 @@
+{
+	"id": "boueigun_jumetsu",
+	"category": "boueigun",
+	"display": "鋼塊の重滅兵団",
+	"official_name": "鋼塊の重滅兵団",
+	"nickname_regex": "(?:鋼塊|こうかい|コウカイ|重滅|じゅうめつ|ジュウメツ)",
+	"resistances": [
+		["ブレス", "マヒ", "転び"]
+	]
+}
