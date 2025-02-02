@@ -4,8 +4,8 @@
 	"announcement": "本日の昏冥庫パニガルムは __MONSTERS__ です！__END_OF_TERM__まで開放されています！",
 	"announcement_at_start": "昏冥庫パニガルムが開放されました！__END_OF_TERM__まで __MONSTERS__ と戦えます！__RESISTANCES__の耐性があると良いようです！",
 	"information": "本日の昏冥庫パニガルムは __MONSTERS__ です！__END_OF_TERM__まで開放されています！__RESISTANCES__の耐性があると良いようです！",
-	"out_of_term": "本日の昏冥庫パニガルムは開いてません！",
-	"nickname_regex": "(?:昏冥庫|こんめいこ|こんめーこ|混迷庫)",
+	"out_of_term": "本日は昏冥庫パニガルムは開いてません！",
+	"nickname_regex": "(?:昏冥庫|こんめいこ|こんめーこ|混迷庫|(?:パニガルム|ぱにがるむ|ﾊﾟﾆｶﾞﾙﾑ|パニパニ|ぱにぱに|ﾊﾟﾆﾊﾟﾆ))",
 	"days": [1, 15],
 	"term_in_hours": 120,
 	"monsters": [
