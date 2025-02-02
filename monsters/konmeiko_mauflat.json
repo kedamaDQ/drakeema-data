@@ -1,0 +1,10 @@
+{
+	"id": "konmeiko_mauflat",
+	"category": "konmeiko",
+	"display": "冥炎翼マゥフラート",
+	"official_name": "冥炎翼マゥフラート",
+	"nickname_regex": "(?:マゥフラート|まぅふらーと|ﾏｩﾌﾗｰﾄ|冥炎翼)",
+	"resistances": [
+		["呪文", "炎"]
+	]
+}
