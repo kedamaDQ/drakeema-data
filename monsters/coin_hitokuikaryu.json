@@ -1,0 +1,10 @@
+{
+	"id": "coin_hitokuikaryu",
+	"category": "coin",
+	"display": "人食い火竜",
+	"official_name": "人食い火竜",
+	"nickname_regex": "(?:火竜|かりゅう|カリュウ|ｶﾘｭｳ)",
+	"resistances": [
+		["炎", "呪文", "ブレス", "封印"]
+	]
+}

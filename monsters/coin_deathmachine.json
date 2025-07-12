@@ -1,0 +1,10 @@
+{
+	"id": "coin_deathmachine",
+	"category": "coin",
+	"display": "デスマシーン",
+	"official_name": "デスマシーン",
+	"nickname_regex": "(?:ですましーん|デスマシーン|ﾃﾞｽﾏｼｰﾝ)",
+	"resistances": [
+		["ブレス", "幻惑", "転び"]
+	]
+}

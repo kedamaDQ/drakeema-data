@@ -1,0 +1,10 @@
+{
+	"id": "boueigun_ihou",
+	"category": "boueigun",
+	"display": "金神の遺宝兵団",
+	"official_name": "金神の遺宝兵団",
+	"nickname_regex": "(?:金神|こんじん|コンジン|遺宝|いほう|イホウ|秘鳥将|バオラ|ばおら)",
+	"resistances": [
+		["呪文", "封印", "呪い"]
+	]
+}
