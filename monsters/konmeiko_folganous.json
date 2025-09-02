@@ -1,0 +1,10 @@
+{
+	"id": "konmeiko_folganous",
+	"category": "konmeiko",
+	"display": "冥闇角フォルガノス",
+	"official_name": "冥闇角フォルガノス",
+	"nickname_regex": "(?:フォルガノス|ふぉるがのす|ﾌｫﾙｶﾞﾉｽ|冥闇角)",
+	"resistances": [
+		["呪文", "ブレス", "闇"]
+	]
+}

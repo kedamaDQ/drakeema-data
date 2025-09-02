@@ -1,6 +1,6 @@
 {
 	"attention": "!! set first day to reference_date !!",
-	"reference_date": "2025-02-01T06:00:00.000+09:00",
+	"reference_date": "2025-09-01T06:00:00.000+09:00",
 	"announcement": "本日の昏冥庫パニガルムは __MONSTERS__ です！__END_OF_TERM__まで開放されています！",
 	"announcement_at_start": "昏冥庫パニガルムが開放されました！__END_OF_TERM__まで __MONSTERS__ と戦えます！__RESISTANCES__の耐性があると良いようです！",
 	"information": "本日の昏冥庫パニガルムは __MONSTERS__ です！__END_OF_TERM__まで開放されています！__RESISTANCES__の耐性があると良いようです！",
@@ -9,6 +9,10 @@
 	"days": [1, 15],
 	"term_in_hours": 120,
 	"monsters": [
+		{
+			"id": "folganous",
+			"monster_id": "konmeiko_folganous"
+		},
 		{
 			"id": "mauflat",
 			"monster_id": "konmeiko_mauflat"
