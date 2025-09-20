@@ -1,0 +1,10 @@
+{
+    "id": "togabito_nocseria",
+	"category": "tobagito",
+    "display": "ノクゼリア",
+    "official_name": "燦滅のノクゼリア",
+    "nickname_regex": "(?:ノクゼリア|のくぜりあ|ﾉｸｾﾞﾘｱﾞ)",
+    "resistances": [
+	    ["呪文", "ブレス", "マヒ", "呪い", "混乱", "どく", "転び"]
+    ]
+}

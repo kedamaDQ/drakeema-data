@@ -1,5 +1,5 @@
 {
-    "reference_date": "2023-07-19T06:00:00.000+09:00",
+    "reference_date": "2025-09-16T06:00:00.000+09:00",
     "level_names": ["Ⅰ", "Ⅱ"],
     "announcement": {
         "start": "本日の 深淵の咎人たち は……\n",
@@ -28,6 +28,12 @@
             "id": "willide",
             "monster_id": "togabito_willide",
             "offset" : 1
+        },
+        {
+            "id": "nocseria",
+            "monster_id": "togabito_nocseria",
+            "offset" : 0
         }
+
     ]
 }
