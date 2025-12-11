@@ -1,42 +1,42 @@
 {
-	"reference_date": "2025-07-12T03:00:00.000+09:00",
+	"reference_date": "2025-12-11T05:00:00.000+09:00",
 	"information": "現在アストルティア防衛軍は__LOCATION__で __CURRENT_MONSTER__ と交戦中です！\n__RESISTANCES__ の耐性があると良いようです！\nあと __REMAIN__ 分で __NEXT_MONSTER__ が攻めてきます！",
 	"nickname_regex": "(?:防衛軍|ぼうえいぐん|防衛)",
 	"monsters": [
+		{ "id": "zoma1", "monster_id": "boueigun_zoma", "location": "獅子門", "duration": 60 },
+		{ "id": "kaiyo1", "monster_id": "boueigun_kaiyo", "location": "ジュレットの町", "duration": 60 },
+		{ "id": "karetsu1", "monster_id": "boueigun_karetsu", "location": "ジュレットの町", "duration": 60 },
+		{ "id": "saika1", "monster_id": "boueigun_saika", "location": "岳都ガタラ", "duration": 60 },
+		{ "id": "jumetsu1", "monster_id": "boueigun_jumetsu", "location": "グランゼドーラ王国", "duration": 60 },
+		{ "id": "bakuzoku1", "monster_id": "boueigun_bakuzoku", "location": "赤熱の荒野", "duration": 60 },
+		{ "id": "all1", "monster_id": "boueigun_all", "location": "各地", "duration": 60 },
+
+		{ "id": "ihou1", "monster_id": "boueigun_ihou", "location": "アラハギーロ王国", "duration": 60 },
+		{ "id": "bakuzoku2", "monster_id": "boueigun_bakuzoku", "location": "赤熱の荒野", "duration": 60 },
+		{ "id": "all2", "monster_id": "boueigun_all", "location": "各地", "duration": 60 },
+
 		{ "id": "juga1", "monster_id": "boueigun_juga", "location": "獅子門", "duration": 60 },
 		{ "id": "shigoku1", "monster_id": "boueigun_shigoku", "location": "ツスクルの村", "duration": 60 },
 		{ "id": "ryurin1", "monster_id": "boueigun_ryurin", "location": "岳都ガタラ", "duration": 60 },
 		{ "id": "meiyoku1", "monster_id": "boueigun_meiyoku", "location": "チョッピ荒野", "duration": 60 },
-		{ "id": "jumetsu1", "monster_id": "boueigun_jumetsu", "location": "グランゼドーラ王国", "duration": 60 },
-		{ "id": "ihou1", "monster_id": "boueigun_ihou", "location": "アラハギーロ王国", "duration": 60 },
-		{ "id": "all1", "monster_id": "boueigun_all", "location": "各地", "duration": 60 },
-
 		{ "id": "jumetsu2", "monster_id": "boueigun_jumetsu", "location": "グランゼドーラ王国", "duration": 60 },
+		{ "id": "bakuzoku3", "monster_id": "boueigun_bakuzoku", "location": "赤熱の荒野", "duration": 60 },
+		{ "id": "all3", "monster_id": "boueigun_all", "location": "各地", "duration": 60 },
+
 		{ "id": "ihou2", "monster_id": "boueigun_ihou", "location": "アラハギーロ王国", "duration": 60 },
-		{ "id": "all2", "monster_id": "boueigun_all", "location": "各地", "duration": 60 },
+		{ "id": "bakuzoku4", "monster_id": "boueigun_bakuzoku", "location": "赤熱の荒野", "duration": 60 },
+		{ "id": "all4", "monster_id": "boueigun_all", "location": "各地", "duration": 60 },
 
 		{ "id": "tekki1", "monster_id": "boueigun_tekki", "location": "獅子門", "duration": 60 },
 		{ "id": "kyochu1", "monster_id": "boueigun_kyochu", "location": "チョッピ荒野", "duration": 60 },
 		{ "id": "nenkai1", "monster_id": "boueigun_nenkai", "location": "ツスクルの村", "duration": 60 },
 		{ "id": "jusou1", "monster_id": "boueigun_jusou", "location": "岳都ガタラ", "duration": 60 },
 		{ "id": "jumetsu3", "monster_id": "boueigun_jumetsu", "location": "グランゼドーラ王国", "duration": 60 },
-		{ "id": "ihou3", "monster_id": "boueigun_ihou", "location": "アラハギーロ王国", "duration": 60 },
-		{ "id": "all3", "monster_id": "boueigun_all", "location": "各地", "duration": 60 },
-
-		{ "id": "jumetsu4", "monster_id": "boueigun_jumetsu", "location": "グランゼドーラ王国", "duration": 60 },
-		{ "id": "ihou4", "monster_id": "boueigun_ihou", "location": "アラハギーロ王国", "duration": 60 },
-		{ "id": "all4", "monster_id": "boueigun_all", "location": "各地", "duration": 60 },
-
-		{ "id": "zoma1", "monster_id": "boueigun_zoma", "location": "獅子門", "duration": 60 },
-		{ "id": "kaiyo1", "monster_id": "boueigun_kaiyo", "location": "ジュレットの町", "duration": 60 },
-		{ "id": "karetsu1", "monster_id": "boueigun_karetsu", "location": "ジュレットの町", "duration": 60 },
-		{ "id": "saika1", "monster_id": "boueigun_saika", "location": "岳都ガタラ", "duration": 60 },
-		{ "id": "jumetsu5", "monster_id": "boueigun_jumetsu", "location": "グランゼドーラ王国", "duration": 60 },
-		{ "id": "ihou5", "monster_id": "boueigun_ihou", "location": "アラハギーロ王国", "duration": 60 },
+		{ "id": "bakuzoku5", "monster_id": "boueigun_bakuzoku", "location": "赤熱の荒野", "duration": 60 },
 		{ "id": "all5", "monster_id": "boueigun_all", "location": "各地", "duration": 60 },
 
-		{ "id": "jumetsu6", "monster_id": "boueigun_jumetsu", "location": "グランゼドーラ王国", "duration": 60 },
-		{ "id": "ihou6", "monster_id": "boueigun_ihou", "location": "アラハギーロ王国", "duration": 60 },
+		{ "id": "ihou3", "monster_id": "boueigun_ihou", "location": "アラハギーロ王国", "duration": 60 },
+		{ "id": "bakuzoku6", "monster_id": "boueigun_bakuzoku", "location": "赤熱の荒野", "duration": 60 },
 		{ "id": "all6", "monster_id": "boueigun_all", "location": "各地", "duration": 60 }
 	]
 }
