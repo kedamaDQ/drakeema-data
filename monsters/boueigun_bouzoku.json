@@ -1,0 +1,10 @@
+{
+	"id": "boueigun_koubaku",
+	"category": "boueigun",
+	"display": "紅爆の暴賊兵団",
+	"official_name": "紅爆の暴賊兵団",
+	"nickname_regex": "(?:紅爆|こうばく|コウバク|暴賊|ばくぞく|バクゾク|暴奏将|モグド|もぐど)",
+	"resistances": [
+		["呪文", "転び"]
+	]
+}
