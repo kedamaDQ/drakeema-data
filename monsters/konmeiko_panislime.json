@@ -1,0 +1,10 @@
+{
+	"id": "konmeiko_panislime",
+	"category": "konmeiko",
+	"display": "冥光冠パニスライム",
+	"official_name": "冥光冠パニスライム",
+	"nickname_regex": "(?:パニスライム|ぱにすらいむ|ﾊﾟﾆｽﾗｲﾑ|冥光冠)",
+	"resistances": [
+		["混乱", "呪文", "炎"]
+	]
+}
