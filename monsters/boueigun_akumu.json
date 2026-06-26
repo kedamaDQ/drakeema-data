@@ -1,0 +1,10 @@
+{
+	"id": "boueigun_akumu",
+	"category": "boueigun",
+	"display": "冥黒の悪夢兵団",
+	"official_name": "冥黒の悪夢兵団",
+	"nickname_regex": "(?:冥黒|めいこく|メイコク|悪夢|あくむ|アクム)",
+	"resistances": [
+		["即死", "呪文", "どく"]
+	]
+}
