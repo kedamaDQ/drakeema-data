@@ -33,6 +33,7 @@
 		"@unnerv.jp$",
 		"^aquarium@botsin.space$",
 		"^SubwayTooter@mastodon.juggler.jp$",
-		"^Tusky@mastodon.social$"
+		"^Tusky@mastodon.social$",
+		"fastnews@fedibird.com$"
 	]
 }
